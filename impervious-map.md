@@ -1,7 +1,7 @@
-***
+---
 layout: default
 title: Imperviousness Map
-***
+---
 
 <div id="map" style="height: 400px;"></div>
 <div id="solution" style="margin-top: 1em;"></div>
