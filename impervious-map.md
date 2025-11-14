@@ -18,7 +18,7 @@ fetch('Imperviousness Solutions.geojson') // Use the exact filename as in your r
       style: f => ({
         color:
           f.properties['%'] <= 30 ? 'green' :
-          f.properties['%'] <= 70 ? 'orange' : 'red',
+          f.properties['%'] <= 70 ? 'yellow' : 'purple',
         fillOpacity: 0.5
       }),
       onEachFeature: function(feature, layer) {
