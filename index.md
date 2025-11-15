@@ -1,0 +1,12 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
+#Trial1
+# Welcome to Kerpen Rainwater Management Web App
+
+This tool helps Kerpen homeowners explore practical, climate-adaptive rainwater management solutions tailored to their property.
+
+
