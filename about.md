@@ -19,4 +19,4 @@ This website helps homeowners in Kerpen discover sustainable, affordable solutio
 Designed for everyone, this guide is part of a research project aiming to make eco-friendly rainwater management simple and accessible for private homeowners.
 
 
-[Home](index.html) | [About](about.html) | [Solutions](find-solutions.html) | [Impervious Map](impervious-new.html) | [Rainwater App](form.html)
+[Home](index.html) | [About](about.html) | [Solutions](solutions.html) | [Impervious Map](impervious-new.html) | [Rainwater App](form.html)
