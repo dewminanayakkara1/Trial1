@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Imperviousness New Map
+nav_order: 4
 ---
 
 <div id="map" style="height: 500px; margin-bottom: 1em;"></div>
@@ -42,3 +43,6 @@ fetch('https://raw.githubusercontent.com/dewminanayakkara1/Trial1/refs/heads/mai
     }).addTo(map);
   });
 </script>
+
+
+[Home](index.html) | [About](about.html) | [Solutions](find-solutions.html) | [Impervious Map](impervious-new.html) | [Rainwater App](form.html)
