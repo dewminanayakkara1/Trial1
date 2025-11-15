@@ -4,7 +4,7 @@ theme: minima
 - title: "About"
   url: /about.html
 - title: "Solutions"
-  url: /find-solutions.html
+  url: /solutions.html
 - title: "Impervious Map"
   url: /impervious-new.html
 - title: "Rainwater App"
