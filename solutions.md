@@ -37,4 +37,4 @@ Discover which options match your home type and local climate conditions.
 Explore each solution in detail to find cost, installation steps, and maintenance tips tailored for Kerpen’s climate and soil.
 
 
-[Home](index.html) | [About](about.html) | [Solutions](find-solutions.html) | [Impervious Map](impervious-new.html) | [Rainwater App](form.html)
+[Home](index.html) | [About](about.html) | [Solutions](solutions.html) | [Impervious Map](impervious-new.html) | [Rainwater App](form.html)
