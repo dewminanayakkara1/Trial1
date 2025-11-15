@@ -45,4 +45,4 @@ fetch('https://raw.githubusercontent.com/dewminanayakkara1/Trial1/refs/heads/mai
 </script>
 
 
-[Home](index.html) | [About](about.html) | [Solutions](find-solutions.html) | [Impervious Map](impervious-new.html) | [Rainwater App](form.html)
+[Home](index.html) | [About](about.html) | [Solutions](solutions.html) | [Impervious Map](impervious-new.html) | [Rainwater App](form.html)
